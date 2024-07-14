@@ -1,0 +1,22 @@
+2024-07-14 22:00:01,981 - INFO - Packet Sniffer Started
+2024-07-14 22:00:21,202 - INFO - ARP Packet: Ether / ARP who has 192.168.0.104 says 192.168.0.1
+2024-07-14 22:00:48,546 - INFO - ARP Packet: Ether / ARP is at 50:c2:e8:0b:81:a1 says 192.168.0.104
+2024-07-14 22:00:48,547 - INFO - ARP Packet: Ether / ARP who has 192.168.0.104 says 192.168.0.1
+2024-07-14 22:01:24,147 - INFO - ARP Packet: Ether / ARP is at 50:c2:e8:0b:81:a1 says 192.168.0.104
+2024-07-14 22:01:24,147 - INFO - ARP Packet: Ether / ARP who has 192.168.0.104 says 192.168.0.1
+2024-07-14 22:01:48,577 - INFO - ARP Packet: Ether / ARP is at 50:c2:e8:0b:81:a1 says 192.168.0.104
+2024-07-14 22:01:48,578 - INFO - ARP Packet: Ether / ARP who has 192.168.0.104 says 192.168.0.1
+2024-07-14 22:02:18,594 - INFO - ARP Packet: Ether / ARP is at 50:c2:e8:0b:81:a1 says 192.168.0.104
+2024-07-14 22:02:18,595 - INFO - ARP Packet: Ether / ARP who has 192.168.0.104 says 192.168.0.1
+2024-07-14 22:02:43,570 - INFO - ARP Packet: Ether / ARP is at 50:c2:e8:0b:81:a1 says 192.168.0.104
+2024-07-14 22:06:49,549 - INFO - Packet Sniffer Started
+2024-07-14 22:07:09,243 - INFO - ARP Packet: Ether / ARP who has 192.168.0.104 says 192.168.0.1
+2024-07-14 22:07:42,295 - INFO - ARP Packet: Ether / ARP is at 50:c2:e8:0b:81:a1 says 192.168.0.104
+2024-07-14 22:07:42,296 - INFO - ARP Packet: Ether / ARP who has 192.168.0.104 says 192.168.0.1
+2024-07-14 22:08:14,241 - INFO - ARP Packet: Ether / ARP is at 50:c2:e8:0b:81:a1 says 192.168.0.104
+2024-07-14 22:08:14,242 - INFO - ARP Packet: Ether / ARP who has 192.168.0.104 says 192.168.0.1
+2024-07-14 22:08:44,466 - INFO - ARP Packet: Ether / ARP is at 50:c2:e8:0b:81:a1 says 192.168.0.104
+2024-07-14 22:08:44,466 - INFO - ARP Packet: Ether / ARP who has 192.168.0.104 says 192.168.0.1
+2024-07-14 22:09:32,384 - INFO - ARP Packet: Ether / ARP is at 50:c2:e8:0b:81:a1 says 192.168.0.104
+2024-07-14 22:09:32,385 - INFO - ARP Packet: Ether / ARP who has 192.168.0.104 says 192.168.0.1
+2024-07-14 22:10:12,034 - INFO - ARP Packet: Ether / ARP is at 50:c2:e8:0b:81:a1 says 192.168.0.104
